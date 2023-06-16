@@ -1,0 +1,6 @@
+
+class NewWords():
+    word = ""
+    translate = ""
+
+
