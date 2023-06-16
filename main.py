@@ -5,7 +5,7 @@ from MySQL import MySQL
 from User import User
 from random import randint
 from task import Task, task_types
-bot_token = "6261932886:AAHB_4UGpUX5kvT8omdu1vp-fxCpNMQI_ag"
+bot_token = "bot_tonek"
 bot = telebot.TeleBot(bot_token)
 mysql_ = MySQL()
 task = Task()
